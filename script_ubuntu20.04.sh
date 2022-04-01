@@ -58,7 +58,13 @@ sudo apt install chrome-gnome-shell
 
 # remember install firefox add-on for gnome extensions
 # extensions:
-# ArcMenu, Clipboard Indicator, Dash to Dock, Dash to Panel, Screenshot Tool, User Themes
+# ArcMenu
+# Clipboard Indicator
+# Dash to Dock
+# Dash to Panel
+# Notification Banner Reloaded
+# Screenshot Tool
+# User Themes
 
 
 ## ADMIN
